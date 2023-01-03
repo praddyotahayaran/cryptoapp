@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cryptoapp/static/js/main.f6918faf.js",
+    "index.html": "/cryptoapp/index.html",
+    "main.f6918faf.js.map": "/cryptoapp/static/js/main.f6918faf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f6918faf.js"
+  ]
+}
